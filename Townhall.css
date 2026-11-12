@@ -1,0 +1,27 @@
+h1{
+    color:black;
+}
+.head1{
+    background:linear-gradient(80deg, white, orange, black);
+    border-bottom: 1px solid black;
+
+}
+
+p{display: flex;
+    flex-direction:column;
+    font-size:95%;
+    padding: 0.25em;
+  
+
+}
+
+footer{
+    background: linear-gradient(black, orange, white);
+    color: black;
+    padding: 0.20px
+
+}
+li{
+   color: orange; 
+}
+    

@@ -1,0 +1,22 @@
+h1{
+    color: rgb(148, 19, 19);
+}
+.head1{
+    background:linear-gradient(-170deg, orange, white, orange) ;
+}
+.img{
+    display:flex;
+    flex-direction:column;
+    
+
+}
+img{width:25%;
+    height:25%;}
+    
+footer{
+    background-color:maroon;
+    color:white;
+    padding:10px;
+    margin-top:5%;
+
+}
